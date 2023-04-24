@@ -1,2 +1,2 @@
-# frontendmentor-nfl-preview-card
+# frontendmentor-nft-preview-card
 Frontend Mentor NFT Preview Card Component
